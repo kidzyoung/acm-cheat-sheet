@@ -1,5 +1,5 @@
-\usepackage[centering,paperwidth=180mm,paperheight=230mm,%
-body={390pt,530pt},marginparsep=10pt,marginpar=50pt]{geometry}
+\usepackage[centering,paperwidth=90mm,paperheight=127mm,%
+body={210pt,280pt},marginparsep=15pt,marginpar=5pt]{geometry}
 \usepackage{color}
 \usepackage{enumitem}
 \usepackage{fancyvrb}
